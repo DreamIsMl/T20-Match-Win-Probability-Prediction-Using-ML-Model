@@ -24,6 +24,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/T20-Match-Win-Probability.git
+   git clone https://github.com/DreamIsMl/T20-Match-Win-Probability.git
    cd T20-Match-Win-Probability
 
